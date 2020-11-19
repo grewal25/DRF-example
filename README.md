@@ -13,6 +13,8 @@ pip install djangorestframework
 
 # create a project
 django-admin startproject ecom
+
 cd ecom
+
 django-admin startapp home
 

@@ -11,7 +11,7 @@ source env/bin/activate
 pip install django
 pip install djangorestframework
 
-#create a project
+# create a project
 django-admin startproject ecom
 cd ecom
 django-admin startapp home
